@@ -1,0 +1,13 @@
+---
+title: "Light weight dependency management using renv package"
+author: "Cui Di"
+date: "`r Sys.Date()`"
+output: bookdown::html_document2
+---
+
+
+```{r libraries, message=FALSE, echo=TRUE}
+library(dplyr)
+library(ggplot2)
+```
+
